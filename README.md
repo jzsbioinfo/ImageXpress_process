@@ -1,2 +1,2 @@
-# ImageXpress_process_single_time_point
- ImageXpress process single time point
+# ImageXpress_process  
+ImageXpress process program, cell segmentation, exreact cell area, fluorescence intensity and calculate growth rate etc.  
